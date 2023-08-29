@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NewDrey
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning python 3
+- 🌱 I’m currently learning web-development
 - 📫 How to reach me tg: @IRK_Andrei_Shapov
 
 <!---
